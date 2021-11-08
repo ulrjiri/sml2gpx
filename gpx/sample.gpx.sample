@@ -1,0 +1,18 @@
+ <gpx>
+   <trk>
+     <trkseg>
+       <trkpt lat="50.047301999999995" lon="14.4237044">
+         <ele>232</ele>
+         <time>2021-03-06T12:37:08Z</time>
+       </trkpt>
+       <trkpt lat="50.0473109" lon="14.4237236">
+         <ele>233</ele>
+         <time>2021-03-06T12:37:09Z</time>
+       </trkpt>
+       <trkpt lat="50.0473235" lon="14.423740700000002">
+         <ele>232</ele>
+         <time>2021-03-06T12:37:10Z</time>
+       </trkpt>
+     </trkseg>
+   </trk>
+ </gpx>
